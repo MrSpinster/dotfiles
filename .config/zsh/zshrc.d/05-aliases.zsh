@@ -22,4 +22,5 @@ alias dota="dotbare fadd"
 alias dotch="dotbare fcheckout"
 alias dotgr="dotbare fgrep"
 alias dots="dotbare fstat"
+alias dotc="dotbare commit -m"
 

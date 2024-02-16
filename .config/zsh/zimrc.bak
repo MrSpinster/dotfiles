@@ -1,9 +1,0 @@
-zmodule romkatv/powerlevel10k --use degit
-zmodule kazhala/dotbare
-zmodule zsh-users/zsh-completions --fpath src
-zmodule mattmc3/zfunctions
-zmodule completion
-zmodule mattmc3/zshrc.d
-zmodule zdharma-continuum/fast-syntax-highlighting
-zmodule zsh-users/zsh-autosuggestions
-

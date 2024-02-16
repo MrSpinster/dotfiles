@@ -1,4 +1,6 @@
 zmodule kazhala/dotbare
+zmodule mroth/evalcache
+zmodule aloxaf/fzf-tab
 zmodule zsh-users/zsh-completions --fpath src
 zmodule mattmc3/zfunctions
 zmodule completion
